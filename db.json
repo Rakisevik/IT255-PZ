@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "firstname": "Jeff",
+      "lastname": "Bezos",
+      "birthdate": "1945-02-02",
+      "gender": "m",
+      "education": "PhD",
+      "company": "Amazon",
+      "jobExperience": 32,
+      "salary": 48000,
+      "profile": "Image_1.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "Elon",
+      "lastname": "Musk",
+      "birthdate": "1954-04-04",
+      "gender": "m",
+      "education": "High school",
+      "company": "SpaceX",
+      "jobExperience": 25,
+      "salary": 50000,
+      "profile": "Image_2.jpg",
+      "id": 5
+    },
+    {
+      "firstname": "Stefan",
+      "lastname": "Rakicevic",
+      "birthdate": "1993-07-21",
+      "gender": "m",
+      "education": "High school",
+      "company": "Infrastructure Analytics",
+      "jobExperience": 1,
+      "salary": 2500,
+      "profile": "Image_0.jpg",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
